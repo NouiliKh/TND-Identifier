@@ -4,6 +4,10 @@ import glob
 from sklearn.utils import shuffle
 import numpy as np
 
+# Preparing DataSets for Training
+# This file is needed but train.py to do the data preprocessing
+
+##################################### Methods ###########################################################
 
 def load_train(train_path, image_size, classes):
     images = []
@@ -116,3 +120,4 @@ def read_train_sets(train_path, image_size, classes, validation_size):
   return data_sets
 
 
+########################################### END ################################################
