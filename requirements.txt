@@ -1,0 +1,5 @@
+opencv
+sklearn
+numpy
+tensorflow
+python3
