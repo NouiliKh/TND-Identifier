@@ -16,3 +16,6 @@ An application that uses machine learning algorithms (Tensorflow) to classify Im
     $ <install> python3
     $ pip3 install -r requirements.txt
     $ python3 predict.py <image.xyz>
+
+## Docker deployment
+    [Here](docker/)
