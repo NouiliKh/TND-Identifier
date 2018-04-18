@@ -9,9 +9,9 @@ __pycache__/
 
 #ML tensorflow model
 checkpoint
-TND-Identifier-model.data-00000-of-00001
-TND-Identifier-model.index
-TND-Identifier-model.meta
+# TND-Identifier-model.data-00000-of-00001
+# TND-Identifier-model.index
+# TND-Identifier-model.meta
 
 # ide
 .idea
