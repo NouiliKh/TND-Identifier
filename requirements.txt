@@ -1,5 +1,4 @@
-opencv
+tensorflow
+opencv-python
 sklearn
 numpy
-tensorflow
-python3

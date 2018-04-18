@@ -1,17 +1,18 @@
 ![TND images](img/TND_coins.png)
 
 # TND-Identifier
-An application that uses machine learning algorithms to classify Images of Tunisian currency
+An application that uses machine learning algorithms (Tensorflow) to classify Images of Tunisian currency
 
 
 ## Dependencies
-    opencv
+    python3.x
+    tensorflow
+    opencv-python
     sklearn
     numpy
-    tensorflow
-    python3
 
 
 ## Run the app
-    $ install python3
+    $ <install> python3
     $ pip3 install -r requirements.txt
+    $ python3 predict.py <image.xyz>
