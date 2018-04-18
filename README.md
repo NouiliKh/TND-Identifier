@@ -1,4 +1,4 @@
-![TND images](../img/TND_coins.png)
+![TND images](img/TND_coins.png)
 
 # TND-Identifier
 An application that uses machine learning algorithms (Tensorflow) to classify images of Tunisian currency

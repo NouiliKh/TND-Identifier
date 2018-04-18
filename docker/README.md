@@ -1,4 +1,4 @@
-![TND images](img/TND_coins.png)
+![TND images](../img/TND_coins.png)
 
 # TND-Identifier - docker
 Docker image that uses tensorflow to classify images of Tunisian currency
