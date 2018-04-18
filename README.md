@@ -1,7 +1,7 @@
-![TND images](img/TND_coins.png)
+![TND images](../img/TND_coins.png)
 
 # TND-Identifier
-An application that uses machine learning algorithms (Tensorflow) to classify Images of Tunisian currency
+An application that uses machine learning algorithms (Tensorflow) to classify images of Tunisian currency
 
 
 ## Dependencies
@@ -18,4 +18,5 @@ An application that uses machine learning algorithms (Tensorflow) to classify Im
     $ python3 predict.py <image.xyz>
 
 ## Docker deployment
-    [Here](docker/)
+Easy deployment with [docker](docker/)
+
